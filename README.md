@@ -1,5 +1,5 @@
 # Arth_Commune
 
-This is a library of our red path
+新青年的资料库
 
-LET'S DO IT
+创建者：雪虞Arth
